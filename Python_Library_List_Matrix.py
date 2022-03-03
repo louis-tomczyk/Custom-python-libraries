@@ -1,7 +1,5 @@
 # ============================================================================#
 # author        :   louis TOMCZYK
-# insitution    :   Xidian University
-# date (y/m/d)  :   2021 03 01
 # goal          :   Definition of personalized Lists and Matrix functions
 # ============================================================================#
 # version       :   0.0.1 - 2021-09-27  - array2list
