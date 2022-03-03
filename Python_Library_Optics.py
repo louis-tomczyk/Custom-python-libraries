@@ -1,7 +1,5 @@
 # ============================================================================#
 # author        :   louis TOMCZYK
-# insitution    :   Xidian University
-# date (y/m/d)  :   2021 09 27
 # goal          :   Definition of personalized Optical functions
 # ============================================================================#
 # version       :   0.0.1 - 2021 09 27  - mW2dBm 
